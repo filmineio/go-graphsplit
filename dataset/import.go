@@ -10,7 +10,7 @@ import (
 
 	dsrpc "github.com/beeleelee/go-ds-rpc"
 	dsmongo "github.com/beeleelee/go-ds-rpc/ds-mongo"
-	"github.com/filedrive-team/go-graphsplit"
+	"github.com/filmineio/go-graphsplit"
 	"github.com/ipfs/go-blockservice"
 	dss "github.com/ipfs/go-datastore/sync"
 	bstore "github.com/ipfs/go-ipfs-blockstore"

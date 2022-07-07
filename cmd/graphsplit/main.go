@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/filedrive-team/go-graphsplit"
-	"github.com/filedrive-team/go-graphsplit/dataset"
+	"github.com/filmineio/go-graphsplit"
+	"github.com/filmineio/go-graphsplit/dataset"
 	logging "github.com/ipfs/go-log/v2"
 	"github.com/urfave/cli/v2"
 	"golang.org/x/xerrors"
