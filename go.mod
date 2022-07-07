@@ -1,4 +1,4 @@
-module github.com/filedrive-team/go-graphsplit
+module github.com/filmineio/go-graphsplit
 
 go 1.15
 
