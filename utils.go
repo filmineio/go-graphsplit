@@ -389,6 +389,7 @@ func BuildFileNode(item Finfo, bufDs ipld.DAGService, cidBuilder cid.Builder) (n
 	if err != nil {
 		return nil, err
 	}
+	defer f.Close()
 	r = f
 
 	// read all data of item
